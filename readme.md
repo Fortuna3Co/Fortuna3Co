@@ -1,5 +1,5 @@
  In my github
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Hye%20Sung!&fontSize=90&animation=fadeIn&fontColor=ffffff) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Hye%20Sung!&fontSize=90&animation=fadeIn&fontColor=000000) 
 
 
  <br/> <br/> <br/>
@@ -8,6 +8,7 @@
  I’m currently learning Python, Algorithm, AI  <br/>
  I majored in Electrical and electrical and electronic engineering  <br/>
 
+ <br/> <br/> <br/>
 # Skills
 
 <div align=center> 

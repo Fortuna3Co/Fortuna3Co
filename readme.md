@@ -5,8 +5,8 @@
  <br/> <br/> <br/>
 # Who Am I 
 <br/>
- I’m currently learning Python, Algorithm, AI  <br/>
- I majored in Electrical and electrical and electronic engineering  <br/>
+- I’m currently learning Python, Algorithm, AI  <br/>
+- I majored in Electrical and electrical and electronic engineering  <br/>
 
  <br/> <br/> <br/>
 # Skills
@@ -20,10 +20,11 @@
  <br/> <br/> <br/>
 # stuff on my github
 <br/>
- 1. Apartment auction price prediction  <br/>
- 2. Robostar field training - Data Visualization using bokeh library  <br/>
- 3. Prediction of the number of people getting on and off the bus at work hours in Jeju Island  <br/>
- 4. Video-based Tracking using Tello Drone & Jetson Nano Borad  <br/>
+
+1. Apartment auction price prediction  <br/>
+2. Robostar field training - Data Visualization using bokeh library  <br/>
+3. Prediction of the number of people getting on and off the bus at work hours in Jeju Island  <br/>
+4. Video-based Tracking using Tello Drone & Jetson Nano Borad  <br/>
  
  
 <br/> <br/> <br/> 

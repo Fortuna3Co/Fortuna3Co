@@ -18,7 +18,7 @@
  
  
 # stuff on my github
-<br/>
+<br/> <br/> <br/>
  1. Apartment auction price prediction  <br/>
  2. Robostar field training - Data Visualization using bokeh library  <br/>
  3. Prediction of the number of people getting on and off the bus at work hours in Jeju Island  <br/>
@@ -27,7 +27,7 @@
  
  
 # GitHub Stats
-<br/>
+<br/> <br/> <br/> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fortuna3Co&show_icons=true&theme=solarized-light)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFortuna3Co&count_bg=%23000000&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)

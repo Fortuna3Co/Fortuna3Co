@@ -3,10 +3,10 @@
 
 
 
-<center> # Who Am I </center>
+# <center> Who Am I </center>
 
-- I’m currently learning Python, Algorithm, AI
-- I majored in Electrical and electrical and electronic engineering
+<center> - I’m currently learning Python, Algorithm, AI </center>
+<center> - I majored in Electrical and electrical and electronic engineering </center>
 
 # Skills
  ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=yellow) ![scikit-learn](https://img.shields.io/badge/sckikit%20learn-orange?black=flat-square&logo=scikit-learn&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-purple?black=flat-square&logo=OpenCV&logoColor=black)

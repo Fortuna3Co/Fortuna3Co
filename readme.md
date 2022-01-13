@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontColor=e3efef)
 
-# Hye Sung
-### Who Am I
+# Who Am I
+### My name is Hye sung Kang!
 - I’m currently learning Python, Algorithm, AI
 - I majored in Electrical and Electronic Engineering
 

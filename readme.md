@@ -2,11 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!&fontSize=90&animation=fadeIn&fontColor=e3efef) 
 
 
-
+ <br/> <br/> <br/>
 # Who Am I 
 
- I’m currently learning Python, Algorithm, AI
- I majored in Electrical and electrical and electronic engineering
+ I’m currently learning Python, Algorithm, AI  <br/>
+ I majored in Electrical and electrical and electronic engineering  <br/>
 
 # Skills
 

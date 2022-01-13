@@ -15,12 +15,16 @@
  ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=yellow) ![scikit-learn](https://img.shields.io/badge/sckikit%20learn-orange?black=flat-square&logo=scikit-learn&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-purple?black=flat-square&logo=OpenCV&logoColor=black)
  </div>
  
+ 
+ 
 # stuff on my github
 <br/>
- 1. Apartment auction price prediction  
- 2. Robostar field training - Data Visualization using bokeh library  
- 3. Prediction of the number of people getting on and off the bus at work hours in Jeju Island  
- 4. Video-based Tracking using Tello Drone & Jetson Nano Borad  
+ 1. Apartment auction price prediction  <br/>
+ 2. Robostar field training - Data Visualization using bokeh library  <br/>
+ 3. Prediction of the number of people getting on and off the bus at work hours in Jeju Island  <br/>
+ 4. Video-based Tracking using Tello Drone & Jetson Nano Borad  <br/>
+ 
+ 
  
 # GitHub Stats
 <br/>

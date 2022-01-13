@@ -17,10 +17,10 @@
  
 # stuff on my github
 <br/>
- 1. Apartment auction price prediction
- 2. Robostar field training - Data Visualization using bokeh library
- 3. Prediction of the number of people getting on and off the bus at work hours in Jeju Island
- 4. Video-based Tracking using Tello Drone & Jetson Nano Borad
+ 1. Apartment auction price prediction  
+ 2. Robostar field training - Data Visualization using bokeh library  
+ 3. Prediction of the number of people getting on and off the bus at work hours in Jeju Island  
+ 4. Video-based Tracking using Tello Drone & Jetson Nano Borad  
  
 # GitHub Stats
 <br/>

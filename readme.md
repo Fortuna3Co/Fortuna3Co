@@ -5,7 +5,7 @@
 # Who Am I 
 <br/>
 - I’m currently learning Python, Algorithm, AI  <br/>
-- I majored in Electrical and electrical and electronic engineering  <br/>
+- I majored in Electrical and electronic engineering  <br/>
 
  <br/> <br/> <br/>
 # Skills

@@ -6,6 +6,7 @@
 <br/>
 - I’m currently learning Python, Algorithm, AI  <br/>
 - I majored in Electrical and electronic engineering  <br/>
+- My Email : fortuna3co@gmail.com
 
  <br/> <br/> <br/>
 # Skills
